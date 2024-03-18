@@ -1,0 +1,19 @@
+{
+  "name": "text-generator",
+  "version": "1.0.0",
+  "description": "text generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text-generator",
+    "text",
+    "lorem"
+  ],
+  "author": "whoami",
+  "license": "MIT",
+  "dependencies": {
+    "sweetalert2": "^11.10.6"
+  }
+}
